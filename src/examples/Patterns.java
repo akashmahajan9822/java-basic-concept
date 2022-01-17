@@ -35,7 +35,7 @@ public class Patterns {
 	    {
 	     for(int colu=1; colu<=size; colu++) {
 			if(colu<=row)
-			System.out.print("*");  
+			System.out.print(" *");  
 			else
 				System.out.print(" ");
 		}
